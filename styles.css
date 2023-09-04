@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#game-container {
+  margin-top: 20px;
+}
+
+.card {
+  width: 50px;
+  height: 80px;
+  border: 1px solid black;
+  margin: 5px;
+}
