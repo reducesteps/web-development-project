@@ -1,0 +1,19 @@
+{
+  "project": {
+    "name": "Web Development Project",
+    "type": "Web Application",
+    "technologies": ["HTML", "CSS", "JavaScript", "Python"],
+    "features": [
+      {
+        "id": 1,
+        "name": "User Authentication",
+        "status": "In Progress"
+      },
+      {
+        "id": 2,
+        "name": "Dashboard",
+        "status": "Not Started"
+      }
+    ]
+  }
+}
